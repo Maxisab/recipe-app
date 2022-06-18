@@ -48,6 +48,16 @@
       "method": "bla bla bla",
       "cookingTime": "45 minutes",
       "id": "4M3DfPO"
+    },
+    {
+      "title": "bacon",
+      "ingredients": [
+        "bacon",
+        "more bacon"
+      ],
+      "method": "cook with bacon",
+      "cookingTime": "5 minutes",
+      "id": "ce1QzJQ"
     }
   ]
 }
