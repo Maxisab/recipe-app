@@ -37,7 +37,7 @@ export default function Create() {
 
     data && history.push('/')
 
-  }, [data])
+  }, [data, history])
 
   return (
     <div className="create">
