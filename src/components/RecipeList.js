@@ -29,6 +29,7 @@ export default function RecipeList({ recipes }) {
             src={Trashcan} 
             className="delete"
             onClick={() => handleClick(recipe.id)}
+            alt="delete icon"
           />
         </div>
       ))}
